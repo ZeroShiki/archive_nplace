@@ -114,7 +114,7 @@
             
             <div class="col-lg-4 col-md-6 col-sm-6 card-list">
               <div class="card card-mb-4">
-                <img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-RC317_front.jpg" alt="Card image cap">
+                <a href="http://localhost/archive_nplace/products/carnavi/DT-RC317/"><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-RC317_front.jpg" alt="Card image cap"></a>
                 <div class="card-body">
                 	<p class="card-title">DT-RC317</p>
                 	<span class="badge-card badge-light">7インチ</span>
@@ -126,7 +126,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 card-list">
               <div class="card card-mb-4">
-                <img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-M707_front.jpg" alt="Card image cap">
+                <a href="http://localhost/archive_nplace/products/carnavi/DT-M707/"><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-M707_front.jpg" alt="Card image cap"></a>
                 <div class="card-body">
                 	<p class="card-title">DT-M707</p>
                 	<span class="badge-card badge-light">7インチ</span>
