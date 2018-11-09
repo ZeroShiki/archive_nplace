@@ -9,7 +9,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6">
-			<img src="http://localhost/archive_nplace/img/carnavi/2017aut_kaitsu.jpg" alt="2017年度に開通した道路例" class="img-fluid">
+			<img src="http://localhost/archive_nplace/img/carnavi/2017aut_kaitsu.jpg" alt="2017年7月1日までに開通した道路例" class="img-fluid">
 		</div>
 	</div>
 </div>
