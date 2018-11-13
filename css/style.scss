@@ -63,7 +63,7 @@ $enable-gradients: true;
 
 .card-title {
 	margin-bottom: 0.5rem;
-	font-size: 120%;
+	font-size: 130%;
 	font-weight: 600;
 }
 
@@ -103,4 +103,29 @@ $enable-gradients: true;
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+// ホバーエフェクト
+
+.overlay {
+	position: relative;
+	display: block;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	z-index: 1;
+}
+
+.overlay a {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	text-indent:-9999px;
+	z-index: 2;
+}
+
+.overlay:hover {
+	background: rgba(0,195,101,0.4) !important;
+	cursor: pointer;
 }

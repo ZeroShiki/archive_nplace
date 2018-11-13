@@ -13,14 +13,14 @@
   <body>
 	<?php require_once '../../../header.php'; ?>
 		<nav aria-label="breadcrumb" role="navigation" class="bg-light">
-		<div class="container">
-			<ol class="breadcrumb">
-				<li class="breadcrumb-item"><a href="#">ホーム</a></li>
-				<li class="breadcrumb-item"><a href="#">カーナビゲーション</a></li>
-				<li class="breadcrumb-item active" aria-current="page">DNK-7636J</li>
-			</ol>
-		</div>
-	</nav>	
+			<div class="container">
+				<ol class="breadcrumb">
+					<li class="breadcrumb-item"><a href="../../../index.html">ホーム</a></li>
+					<li class="breadcrumb-item"><a href="../../index.html">カーナビゲーション</a></li>
+					<li class="breadcrumb-item active" aria-current="page">DNK-7636J</li>
+				</ol>
+			</div>
+		</nav>	
 
 	  <div class="container">
 			<p class="">DIANAVI DNK-7636J</p>
@@ -54,33 +54,10 @@
 			<div class="row justify-content-center">
 				<a href="../DNK-7636J/options.html"><button type="button" class="btn btn-danger m-3">オプション</button></a>
 				<a href="#"><button type="button" class="btn btn-danger m-3">取扱説明書</button></a>
-		  	</div>
-		  
-		  	<h3 class="mb-4 pb-2 border-bottom"><strong>2016年地図データ秋版を収録</strong></h3>
-			<div class="row mb-5">
-				<div class="col-md-6">
-					<ul class="pl-3">
-						<li>2016年7月1日までの地図データを採用しています。（一部データを除きます。）</li>
-						<li>住所登録データ 約3,913万件、施設（名称）検索データ 約640万件を収録。多くのデータにアクセスできます。さらに、２画面表示の際の分岐イラストも大幅に増加し、より走行しやすくなりました。</li>
-					</ul>
-				</div>
-				<div class="col-md-6">
-					<img src="http://localhost/archive_nplace/img/carnavi/rurubu_id.jpg" alt="フルセグワンセグ自動切替" class="img-fluid">
-				</div>
 			</div>
-		  
-		  	<h3 class="mb-4 pb-2 border-bottom"><strong>全国1,335都市の詳細地図</strong></h3>
-			<div class="row mb-5">
-				<div class="col-md-6">
-					<p class="mb-0">日本全国1,335都市の詳細地図を収録しています。</p>
-					<p class="mb-0">建物名や建物の形状、高さ、細かい道路を詳しく表示するので、初めて通る道路でも、カーナビの画面上で確認することができます。</p>
-					<p class="small">（※すべての都市を100%網羅している訳ではありません。）</p>
-				</div>
-				<div class="col-md-6">
-					<img src="http://localhost/archive_nplace/img/carnavi/2016_map_detail_100m.jpg" alt="詳細地図" class="img-fluid">
-				</div>
-			</div>
-		  
+		
+			<?php require_once '../details/map-2016aut.php'; ?>
+			<?php require_once '../details/detail-2016aut.php'; ?>
 			<?php require_once '../details/rurubu2016.php'; ?>
 		    <?php require_once '../details/fullseg.php'; ?>
 		  
@@ -99,7 +76,7 @@
 			  <tbody>
 				<tr>
 				  <th scope="row">マップソフト</th>
-				  <th>16GB 内蔵メモリー</th>
+				  <td>16GB 内蔵メモリー</td>
 				</tr>
 				<tr>
 				  <th scope="row">microSDスロット</th>
