@@ -318,13 +318,48 @@
 					<a href="http://localhost/archive_nplace/products/carnavi/DT-Y55/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-Y55_front.png" alt="Card image cap">
 					<div class="card-body">
 						<p class="card-title">DT-Y55</p>
-						<span class="badge-card badge-light">6インチ</span>
+						<span class="badge-card badge-light">5インチ</span>
+						<span class="badge-card badge-light">8GB 内蔵メモリー</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNC-057N/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNC-057N_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNC-057N</p>
+						<span class="badge-card badge-light">5インチ</span>
+						<span class="badge-card badge-light">8GB microSDカード</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNC-565/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNC-565_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNC-565</p>
+						<span class="badge-card badge-light">5インチ</span>
+						<span class="badge-card badge-light">8GB 内蔵メモリー</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNC-055A/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNC-055A_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNC-055A</p>
+						<span class="badge-card badge-light">5インチ</span>
 						<span class="badge-card badge-light">8GB 内蔵メモリー</span>
 						<span class="badge-card badge-light">ワンセグ</span>
 					</div>
 				</div>
 			</div>
 		</div>
+		
 
 		<h3 class="my-5"><strong>2014年度カーナビゲーション</strong></h3>
 
@@ -435,6 +470,41 @@
 					</div>
 				</div>
 			</div>
+			
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNA-720/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNA-720_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNA-720</p>
+						<span class="badge-card badge-light">7インチ</span>
+						<span class="badge-card badge-light">8GB microSDカード</span>
+						<span class="badge-card badge-light">るるぶDATA 58,500件</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNA-520/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNA-520_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNA-520</p>
+						<span class="badge-card badge-light">5インチ</span>
+						<span class="badge-card badge-light">8GB microSDカード</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNC-005A/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNC-005A_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNC-005A</p>
+						<span class="badge-card badge-light">5インチ</span>
+						<span class="badge-card badge-light">8GB microSDカード</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
 		</div>
 
 		<h3 class="my-5"><strong>2013年度カーナビゲーション</strong></h3>
@@ -490,17 +560,6 @@
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
 				<div class="card card-mb-4 overlay">
-					<a href="http://localhost/archive_nplace/products/carnavi/DT-Y51/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-Y51_front.png" alt="Card image cap">
-					<div class="card-body">
-						<p class="card-title">DT-Y51</p>
-						<span class="badge-card badge-light">5インチ</span>
-						<span class="badge-card badge-light">8GB microSDカード</span>
-						<span class="badge-card badge-light">ワンセグ</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
-				<div class="card card-mb-4 overlay">
 					<a href="http://localhost/archive_nplace/products/carnavi/DT-041K7/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-041K7_front.png" alt="Card image cap">
 					<div class="card-body">
 						<p class="card-title">DT-041K7</p>
@@ -511,7 +570,6 @@
 					</div>
 				</div>
 			</div>
-
 			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
 				<div class="card card-mb-4 overlay">
 					<a href="http://localhost/archive_nplace/products/carnavi/DT-033P7/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-033P7_front.png" alt="Card image cap">
@@ -524,6 +582,44 @@
 					</div>
 				</div>
 			</div>
+			
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNK-701J/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNK-701J_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNK-701J</p>
+						<span class="badge-card badge-light">7インチ</span>
+						<span class="badge-card badge-light">8GB 内蔵メモリー</span>
+						<span class="badge-card badge-light">JAFナビ</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNC-070J/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNC-070J_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNC-070J</p>
+						<span class="badge-card badge-light">7インチ</span>
+						<span class="badge-card badge-light">8GB microSDカード</span>
+						<span class="badge-card badge-light">るるぶDATA58,360件</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DNC-075R/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DNC-075R_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DNC-075R</p>
+						<span class="badge-card badge-light">7インチ</span>
+						<span class="badge-card badge-light">8GB microSDカード</span>
+						<span class="badge-card badge-light">るるぶDATA34,500件</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			
 			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
 				<div class="card card-mb-4 overlay">
 					<a href="http://localhost/archive_nplace/products/carnavi/DT-034P8/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-034P8_front.png" alt="Card image cap">
@@ -547,6 +643,18 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6 card-list">
+				<div class="card card-mb-4 overlay">
+					<a href="http://localhost/archive_nplace/products/carnavi/DT-Y51/"></a><img class="card-img-top" src="http://localhost/archive_nplace/img/carnavi/DT-Y51_front.png" alt="Card image cap">
+					<div class="card-body">
+						<p class="card-title">DT-Y51</p>
+						<span class="badge-card badge-light">5インチ</span>
+						<span class="badge-card badge-light">8GB microSDカード</span>
+						<span class="badge-card badge-light">ワンセグ</span>
+					</div>
+				</div>
+			</div>
+			
 		</div>
 	</div>
 </main>

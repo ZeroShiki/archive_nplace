@@ -1,4 +1,4 @@
-<h3 class="mb-4 pb-2 border-bottom"><strong>2016年地図データ春版を収録</strong></h3>
+<h3 class="mb-4 mt-3 pb-2 border-bottom"><strong>2016年地図データ春版を収録</strong></h3>
 <div class="row mb-5">
 	<div class="col-md-6">
 		<ul class="pl-3">
