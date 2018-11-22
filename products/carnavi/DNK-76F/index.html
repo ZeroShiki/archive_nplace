@@ -1,17 +1,17 @@
 <!doctype html>
 <html lang="ja">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="http://localhost/archive_nplace/css/style.css">
-
-    <title>7インチカーナビゲーション　DNK-76F</title>
-  </head>
-  <body>
-	<?php require_once '../../../header.php'; ?>
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="http://localhost/archive_nplace/css/style.css">
+		
+		<title>7インチカーナビゲーション　DNK-76F</title>
+	</head>
+	<body>
+		<?php require_once '../../../header.php'; ?>
 		<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 			<div class="container">
 				<ol class="breadcrumb">
@@ -25,7 +25,7 @@
 		<div class="container">
 			<p class="">DIANAVI DNK-76F</p>
 			<div id="carouselIndicators" class="carousel slide my-3" data-ride="carousel">
-			  	<div class="carousel-inner">
+				<div class="carousel-inner">
 					<ol class="carousel-indicators">
 						<li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
 						<li data-target="#carouselIndicators" data-slide-to="1"></li>
@@ -53,12 +53,12 @@
 		
 			<div class="row justify-content-center">
 				<a href="../DNK-76F/options.html"><button type="button" class="btn btn-danger m-3">オプション</button></a>
-				<a href="#"><button type="button" class="btn btn-danger m-3">取扱説明書</button></a>
+				<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DNK-76F_manual_web_v2.pdf" target="_blank"><button type="button" class="btn btn-danger m-3">取扱説明書</button></a>
 		  	</div>
 			
-			<?php require_once '../details/map-2016aut.php'; ?>
-			<?php require_once '../details/detail-2016aut.php'; ?>
-			<?php require_once '../details/fullseg.php'; ?>
+			<?php require_once '../details/map-2016aut.html'; ?>
+			<?php require_once '../details/detail-2016aut.html'; ?>
+			<?php require_once '../details/fullseg.html'; ?>
 			
 		  	<h3 class="mb-4 pb-2 border-bottom"><strong>その他の機能</strong></h3>
 			<div>
@@ -115,5 +115,7 @@
 					</tr>
 				</tbody>
 			</table>
+			<?php require_once '../details/map-2016aut-db.html'; ?>
+			<?php require_once '../details/media7inch_k.html'; ?>
 		</div>
 	<?php require_once '../../../footer.php'; ?>

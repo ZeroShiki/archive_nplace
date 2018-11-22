@@ -50,12 +50,12 @@
 		
 			<div class="row justify-content-center">
 				<a href="options.html"><button type="button" class="btn btn-danger m-3">オプション</button></a>
-				<a href="#"><button type="button" class="btn btn-danger m-3">取扱説明書</button></a>
+				<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/navigation/DT-Y71_manual_web_v1.pdf" target="_blank"><button type="button" class="btn btn-danger m-3">ハードマニュアル</button></a>
 			</div>
 		
-			<?php require_once '../details/map-2013.php'; ?>
-			<?php require_once '../details/detail-2013.php'; ?>
-		    <?php require_once '../details/rurubu2013.php'; ?>
+			<?php require_once '../details/map-2013.html'; ?>
+			<?php require_once '../details/detail-2013.html'; ?>
+		    <?php require_once '../details/rurubu2013.html'; ?>
 		  
 			<h3 class="mb-4 pb-2 border-bottom"><strong>その他の機能</strong></h3>
 			<div>
@@ -93,6 +93,10 @@
 						<td>DC 12/24V 車対応</td>
 					</tr>
 					<tr>
+						<th scope="row">シガーソケット電源<br>アダプターヒューズ</th>
+						<td>ガラス管ヒューズ（5mm×20mm）2A</td>
+					</tr>
+					<tr>
 						<th scope="row">動作温度</th>
 						<td>0 〜 60℃</td>
 					</tr>
@@ -109,7 +113,9 @@
 						<td>中国</td>
 					</tr>
 				</tbody>
-			</table>	  
-			</div>
-
+			</table>
+			<?php require_once '../details/map-2013sp-db.html'; ?>
+			<?php require_once '../details/rurubu2013-db.html'; ?>
+			<?php require_once '../details/media7inch_c.html'; ?>
+		</div>
 	<?php require_once '../../../footer.php'; ?> 
