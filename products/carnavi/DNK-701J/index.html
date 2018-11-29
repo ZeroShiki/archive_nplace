@@ -2,7 +2,7 @@
 	define("title", "DNK-701J");
 	require_once '../../../header.php';
 ?>
-<div class="container">
+<div class="container" id="wrap">
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="../../../index.html">ホーム</a></li>
@@ -42,6 +42,7 @@
 	
 	<div class="row justify-content-center">
 		<a href="#map-2013"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2013年度版マップ</button></a>
+		<a href="#indicator"><button type="button" class="btn btn-outline-dark m-1 btn-sm">インジケーター</button></a>
 		<a href="#JAF"><button type="button" class="btn btn-outline-dark m-1 btn-sm">JAFナビ</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">エンジンキー電源連動</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">マルチメディア機能</button></a>
@@ -49,12 +50,11 @@
 
 	<?php
 		require_once '../details/map-2013.html';
-		require_once '../details/detail-2013.html';
 		require_once '../details/indicator.html';
 	
 	?>
 	
-	<h3 class="mb-4 mt-4 pb-2 border-bottom" id="map-2017sp"><strong>JAFドライブコース収録！</strong></h3>
+	<h3 class="mb-4 mt-4 pb-2 border-bottom" id="JAF"><strong>JAFドライブコース収録！</strong></h3>
 	<div class="row mb-5">
 		<div class="col-md-6 mb-3">
 			<h4>ドライブコース、会員優待施設から検索が可能</h4>
@@ -124,8 +124,60 @@
 		<p>パソコンに保存されている音楽／動画／画像データファイルを、市販のmicroSDカードに保存して、再生・表示することができます。</p>
 	</div>
 
+	<h3 class="mt-5 mb-3"><strong>仕様</strong></h3>
+	<table class="table mb-5 table-sm">
+		<tbody>
+			<tr>
+				<th scope="row">マップソフト</th>
+				<td>8GB 内蔵メモリー</td>
+			</tr>
+			<tr>
+				<th scope="row">microSDスロット</th>
+				<td>32GBまでのmicroSDカード・microSDHCカードに対応</td>
+			</tr>
+			<tr>
+				<th scope="row">LEDバックライト液晶</th>
+				<td>7.0インチTFT<br>解像度：800×480 pixelタッチパネル</td>
+			</tr>
+			<tr>
+				<th scope="row">内蔵スピーカー</th> 
+				<td>モノラル</td>
+			</tr>
+			<tr>
+				<th scope="row">イヤホン</th>
+				<td>φ3.5mm ステレオミニジャック</td>
+			</tr>
+			<tr>
+				<th scope="row">外部入力</th>
+				<td>φ3.5mm ミニジャック（専用AVケーブル別売4極タイプ）</td>
+			</tr>
+			<tr>
+				<th scope="row">シガー電源</th>
+				<td>DC 12/24V 車対応</td>
+			</tr>
+			<tr>
+				<th scope="row">シガーソケット電源<br>アダプターヒューズ</th>
+				<td>ガラス管ヒューズ（6mm×30mm）2A</td>
+			</tr>
+			<tr>
+				<th scope="row">動作温度</th>
+				<td>0 〜 60℃</td>
+			</tr>
+			<tr>
+				<th scope="row">サイズ（約）</th>
+				<td>(W) 203 ×(H) 117 ×(D) 16.5 mm</td>
+			</tr>
+			<tr>
+				<th scope="row">重量（約）</th>
+				<td>400 g</td>
+			</tr>
+			<tr>
+				<th scope="row">生産国</th>
+				<td>韓国</td>
+			</tr>
+		</tbody>
+	</table>
 	<?php
-		require_once '../details/nk01113_rurubu.html';
 		require_once '../details/map-2013sp-db.html';
 		require_once '../details/media7inch_k.html';
 	?>

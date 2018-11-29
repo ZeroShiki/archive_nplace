@@ -2,7 +2,7 @@
 	define("title", "DT-J750");
 	require_once '../../../header.php';
 ?>
-<div class="container">
+<div class="container" id="wrap">
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="../../../index.html">ホーム</a></li>
@@ -16,13 +16,12 @@
 			<ol class="carousel-indicators">
 				<li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
 				<li data-target="#carouselIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselIndicators" data-slide-to="2"></li>
 			</ol>
 			<div class="carousel-item active">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-J750_front.jpg" alt="First slide">
+				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-J750_front.jpg" alt="正面">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-J750_back.jpg" alt="Second slide">
+				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-J750_back.jpg" alt="背面">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
@@ -34,19 +33,24 @@
 			<span class="sr-only">Next</span>
 		</a>
 	</div>
+	
+	<div class="row justify-content-center">
+		<a href="options.html"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
+		<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/navigation/DT-J750_manual_web_v3.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+	</div>
 
 	<div class="row justify-content-center">
 		<a href="#map-2015sp"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2015年度版マップ</button></a>
 		<a href="#rurubu2015"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2015年度版るるぶDATA</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">エンジンキー電源連動</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">マルチメディア機能</button></a>
-		<a href="options.html"><button type="button" class="btn btn-outline-danger m-1 btn-sm">オプション</button></a>
-		<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/navigation/DT-J750_manual_web_v3.pdf" target="_blank"><button type="button" class="btn btn-outline-danger m-1 btn-sm">取扱説明書</button></a>
 	</div>
 
-	<?php require_once '../details/map-2015sp.html'; ?>
-	<?php require_once '../details/detail-2015sp.html'; ?>
-	<?php require_once '../details/rurubu2015.html'; ?>
+	<?php
+		require_once '../details/map-2015sp.html';
+		require_once '../details/detail-2015sp.html';
+		require_once '../details/rurubu2015.html';
+	?>
 
 	<h3 class="mb-4 pb-2 border-bottom" id="others"><strong>その他の機能</strong></h3>
 	<div>
@@ -57,7 +61,7 @@
 	</div>
 
 	<h3 class="mt-5 mb-3"><strong>仕様</strong></h3>
-	<table class="table mb-5">
+	<table class="table mb-5 table-sm">
 		<tbody>
 			<tr>
 				<th scope="row">マップソフト</th>
@@ -89,11 +93,11 @@
 			</tr>
 			<tr>
 				<th scope="row">サイズ（約）</th>
-				<td>(W)184×(H)114×(D)13.5mm</td>
+				<td>(W) 184 ×(H) 114 ×(D) 13.5 mm</td>
 			</tr>
 			<tr>
 				<th scope="row">重量（約）</th>
-				<td>280g</td>
+				<td>285 g</td>
 			</tr>
 			<tr>
 				<th scope="row">生産国</th>
@@ -101,8 +105,10 @@
 			</tr>
 		</tbody>
 	</table>
-	<?php require_once '../details/map-2015sp-db.html'; ?>
-	<?php require_once '../details/rurubu2015-db.html'; ?>
-	<?php require_once '../details/media7inch_c.html'; ?>  
+	<?php
+		require_once '../details/map-2015sp-db.html';
+		require_once '../details/rurubu2015-db.html';
+		require_once '../details/media7inch_c.html';
+	?>  
 </div>
 <?php require_once '../../../footer.php'; ?> 

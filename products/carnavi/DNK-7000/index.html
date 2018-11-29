@@ -2,7 +2,7 @@
 	define("title", "DNK-7000");
 	require_once '../../../header.php';
 ?>
-<div class="container">
+<div class="container" id="wrap">
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="../../../index.html">ホーム</a></li>
@@ -16,7 +16,6 @@
 			<ol class="carousel-indicators">
 				<li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
 				<li data-target="#carouselIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselIndicators" data-slide-to="2"></li>
 			</ol>
 			<div class="carousel-item active">
 				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DNK-7000_front.jpg" alt="正面">
@@ -50,7 +49,6 @@
 
 	<?php
 		require_once '../details/map-2013.html';
-		require_once '../details/detail-2013.html';
 		require_once '../details/rurubu2013.html';
 		require_once '../details/indicator.html';
 	?>
@@ -64,7 +62,7 @@
 	</div>
 
 	<h3 class="mt-5 mb-3"><strong>仕様</strong></h3>
-	<table class="table mb-5">
+	<table class="table mb-5 table-sm">
 		<tbody>
 			<tr>
 				<th scope="row">マップソフト</th>
@@ -104,7 +102,7 @@
 			</tr>
 			<tr>
 				<th scope="row">サイズ（約）</th>
-				<td>(W) 20 3×(H) 117 ×(D) 16.5 mm</td>
+				<td>(W) 203 ×(H) 117 ×(D) 16.5 mm</td>
 			</tr>
 			<tr>
 				<th scope="row">重量（約）</th>

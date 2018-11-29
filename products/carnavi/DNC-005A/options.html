@@ -2,7 +2,7 @@
 	define("title", "DNC-005A");
 	require_once '../../../header.php';
 ?>
-<div class="container">
+<div class="container" id="wrap">
 	<section id="">
 		<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 			<ol class="breadcrumb">
@@ -15,11 +15,13 @@
 		<p class="">DIANAVI DNC-005A オプション</p>
 		<h3 class="mb-4 mt-3 pb-2 border-bottom"><strong>同梱オプション</strong></h3>
 		<div class="row mb-5">
-			<?php require_once '../option/dna-520-stand-non.html'; ?>
-			<?php require_once '../option/op-fd7-non.html'; ?>
+			<?php
+				require_once '../option/dna-520-stand-non.html';
+				require_once '../option/op-fd7-non.html';
+			?>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="option mb-4">
-                <img class="card-img-top" src="../../../img/carnavi/DNC-005A_holder.jpg" alt="Card image cap">
+                <img class="card-img-top" src="../../../img/carnavi/DNC-005A_holder.jpg" alt="専用ホルダー">
                 	<div class="card-body-option">
 	                  	<p class="card-title">専用ホルダー</p>
 						<p class="card-text">1,000円（税抜）</p>
@@ -29,7 +31,7 @@
         	</div>
         	<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="option mb-4">
-					<img class="card-img-top" src="../../../img/carnavi/DNC-005A_touchpen.jpg" alt="Card image cap">
+					<img class="card-img-top" src="../../../img/carnavi/DNC-005A_touchpen.jpg" alt="タッチペン">
 					<div class="card-body-option">
 					<p class="card-title">タッチペン</p>
 						<p class="card-text">800円（税抜）</p>
@@ -37,10 +39,12 @@
 					</div>
 				</div>
             </div>
-			<?php require_once '../option/cc-015n-non.html'; ?>
-			<?php require_once '../option/en-015n-non.html'; ?>
-			<?php require_once '../option/mapmanual-non.html'; ?>
-			<?php require_once '../option/hardmanual-non.html'; ?>
+			<?php
+				require_once '../option/cc-015n-non.html';
+				require_once '../option/en-015n-non.html';
+				require_once '../option/mapmanual-non.html';
+				require_once '../option/hardmanual-non.html';
+			?>
 		</div>
 		<?php require_once '../option/caution.html'; ?>
 	</section>
