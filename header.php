@@ -26,20 +26,16 @@
 				<div class="collapse navbar-collapse" id="contents-name">
 					<ul class="navbar-nav mr-auto">
 						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">生産完了品</a>
+							<a class="nav-link dropdown-toggle" href="http://localhost/archive_nplace/" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">生産完了品</a>
 							<div class="dropdown-menu" aria-labelledby="dropdown01">
 								<a class="dropdown-item" href="http://localhost/archive_nplace/products/carnavi/index.html">カーナビゲーション</a>
 								<a class="dropdown-item" href="http://localhost/archive_nplace/products/drive_recorder/index.html">ドライブレコーダー</a>
 							</div>
 						</li>
 						<li class="navbar-nav">
-							<a class="nav-link" href="#">サポート</a>	
+							<a class="nav-link" href="http://nplace.jp/support/">サポート</a>	
 						</li>
 					</ul>
-					<form class="form-inline my-2 my-lg-0">
-						<input class="form-control mr-sm-2" type="search" placeholder="検索" aria-label="検索">
-						<button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">検索</button>
-					</form>
 				</div>
 			</nav>
 		</header>

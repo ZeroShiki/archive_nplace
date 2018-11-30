@@ -205,8 +205,8 @@
 	<p class="small mb-0">※microSDカード16GB、Class6を使用した場合。</p>
 	<p class="small mb-5">※H.264 Encoding</p>
 	
-	<h3 class="mt-3 mb-5"><strong>撮影枚数の目安</strong></h3>
-	<table class="table mb-3 table-sm">
+	<h3 class="mt-3 mb-3"><strong>撮影枚数の目安</strong></h3>
+	<table class="table mb-5 table-sm">
 		<tbody>
 			<tr>
 				<th scope="row" rowspan="2">16GB microSDカード</th>
