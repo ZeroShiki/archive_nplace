@@ -6816,6 +6816,9 @@ a.text-dark:hover, a.text-dark:focus {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6; } }
+table.spec {
+  font-size: 0.9rem; }
+
 #carouselIndicators {
   width: 80%;
   /*サイズ指定*/
@@ -6880,7 +6883,6 @@ a.text-dark:hover, a.text-dark:focus {
   font-weight: 600;
   line-height: 1;
   text-align: center;
-  white-space: nowrap;
   vertical-align: baseline;
   border-radius: 0.25rem; }
 
@@ -6959,3 +6961,11 @@ li.index-spec {
   box-sizing: border-box;
   text-align: center;
   flex-glow: 1; }
+
+.news-product dl {
+  margin-top: 15px;
+  padding: 0; }
+
+.news-product dl dd, #news-product dl dt {
+  font-size: 0.9rem;
+  line-height: 19px; }

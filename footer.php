@@ -2,7 +2,7 @@
 	    <div class="container">
 			<div class="row">
 				<div class="col-12 col-sm">
-					<a href="http://localhost/archive_nplace/"><img src="http://localhost/archive_nplace/img/common/site_id_2x.png" height="40" alt="logo"></a>
+					<a href="http://nplace.jp/"><img src="http://archive.nplace.jp/img/common/site_id_2x.png" height="40" alt="logo"></a>
 					<a class="d-block mt-3 mb-3 text-muted" href="#">page to top</a>
 				</div>
 				<div class="col-3 d-none d-sm-block d-md-block">

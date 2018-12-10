@@ -5,8 +5,8 @@
 <div class="container" id="wrap">
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
-			<li class="breadcrumb-item"><a href="../../../index.html">ホーム</a></li>
-			<li class="breadcrumb-item"><a href="../index.html">ドライブレコーダー</a></li>
+			<li class="breadcrumb-item"><a href="../../../index.php">ホーム</a></li>
+			<li class="breadcrumb-item"><a href="../index.php">ドライブレコーダー</a></li>
 			<li class="breadcrumb-item active" aria-current="page">ND-Y152</li>
 		</ol>
 	</nav>
@@ -18,10 +18,10 @@
 				<li data-target="#carouselIndicators" data-slide-to="1"></li>
 			</ol>
 			<div class="carousel-item active">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/drive_recorder/ND-Y152_front.jpg" alt="正面">
+				<img class="w-100 d-block mx-auto" src="../../../img/drive_recorder/ND-Y152_front.jpg" alt="正面">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/drive_recorder/ND-Y152_back.jpg" alt="背面">
+				<img class="w-100 d-block mx-auto" src="../../../img/drive_recorder/ND-Y152_back.jpg" alt="背面">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
@@ -35,7 +35,7 @@
 	</div>
 
 	<div class="row justify-content-center">
-		<a href="../ND-Y152/options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
+		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
 		<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/dr/ND_Y152_manual_web.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
 	</div>
 
@@ -56,7 +56,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-Y152_auto_recording.jpg" alt="常時録画モード" class="img-fluid">
+			<img src="../../../img/drive_recorder/ND-Y152_auto_recording.jpg" alt="常時録画モード" class="img-fluid">
 			<p class="small">（※画像はイメージです。）</p>
 		</div>
 		
@@ -69,7 +69,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-Y152_event_recording.jpg" alt="イベント録画モード" class="img-fluid">
+			<img src="../../../img/drive_recorder/ND-Y152_event_recording.jpg" alt="イベント録画モード" class="img-fluid">
 			<p class="small">（※画像はイメージです。）</p>
 		</div>
 		
@@ -82,7 +82,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-Y152_manual_recording.jpg" alt="手動録画モード" class="img-fluid">
+			<img src="../../../img/drive_recorder/ND-Y152_manual_recording.jpg" alt="手動録画モード" class="img-fluid">
 			<p class="small">（※画像はイメージです。）</p>
 		</div>
 	</div>
@@ -95,14 +95,14 @@
 			<p class="small">※解像度はFHD（1080p）となります。この他にHD（720p）、VGA（480p）を選択できます。</p>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/20150810_rec_mini.jpg" alt="撮影された映像" class="img-fluid">
+			<img src="../../../img/drive_recorder/20150810_rec_mini.jpg" alt="撮影された映像" class="img-fluid">
 		</div>
 		<div class="col-md-6 mb-4">
 			<h4>自動LCDオフ機能</h4>
 			<p>2録画開始から時間が経過すると、LCDを自動的にオフにします。1分、3分から設定することができます。（常時オンも可能です）</p>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-Y152_kakunin.jpg" alt="自動LCDオフ" class="img-fluid">
+			<img src="../../../img/drive_recorder/ND-Y152_kakunin.jpg" alt="自動LCDオフ" class="img-fluid">
 		</div>
 	</div>
 	
@@ -115,7 +115,7 @@
 			<p class="small">※再生メニューを操作している場合、録画はできません。</p>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-Y152_LCD_off.jpg" alt="本体 – その場で確認" class="img-fluid">
+			<img src="../../../img/drive_recorder/ND-Y152_LCD_off.jpg" alt="本体 – その場で確認" class="img-fluid">
 		</div>
 	</div>
 	

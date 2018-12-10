@@ -5,8 +5,8 @@
 <div class="container" id="wrap">
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
-			<li class="breadcrumb-item"><a href="../../../index.html">ホーム</a></li>
-			<li class="breadcrumb-item"><a href="../index.html">ドライブレコーダー</a></li>
+			<li class="breadcrumb-item"><a href="../../../index.php">ホーム</a></li>
+			<li class="breadcrumb-item"><a href="../index.php">ドライブレコーダー</a></li>
 			<li class="breadcrumb-item active" aria-current="page">ND-151FCL</li>
 		</ol>
 	</nav>
@@ -19,13 +19,13 @@
 				<li data-target="#carouselIndicators" data-slide-to="2"></li>
 			</ol>
 			<div class="carousel-item active">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/drive_recorder/ND-151FCL_front.jpg" alt="正面">
+				<img class="w-100 d-block mx-auto" src="../../../img/drive_recorder/ND-151FCL_front.jpg" alt="正面">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/drive_recorder/ND-151FCL_back.jpg" alt="背面">
+				<img class="w-100 d-block mx-auto" src="../../../img/drive_recorder/ND-151FCL_back.jpg" alt="背面">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/drive_recorder/ND-151FCL_attach.jpg" alt="フロントガラス">
+				<img class="w-100 d-block mx-auto" src="../../../img/drive_recorder/ND-151FCL_attach.jpg" alt="フロントガラス">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
@@ -63,7 +63,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-151FCL_auto_recording.png" alt="常時録画モード" class="img-fluid">
+			<img src="../../../img/drive_recorder/nd-151fcl_auto_recording.png" alt="常時録画モード" class="img-fluid">
 			<p class="small">（※画像はイメージです。）</p>
 		</div>
 		
@@ -79,7 +79,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-151FCL_event_recording.png" alt="イベント録画モード" class="img-fluid">
+			<img src="../../../img/drive_recorder/nd-151fcl_event_recording.png" alt="イベント録画モード" class="img-fluid">
 			<p class="small">（※画像はイメージです。）</p>
 		</div>
 		
@@ -93,7 +93,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-151FCL_manual_recording.png" alt="手動録画モード" class="img-fluid">
+			<img src="../../../img/drive_recorder/nd-151fcl_manual_recording.png" alt="手動録画モード" class="img-fluid">
 			<p class="small">（※画像はイメージです。）</p>
 		</div>
 	</div>
@@ -122,7 +122,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/LDWS.jpg" alt="LDWS" class="img-fluid">
+			<img src="../../../img/drive_recorder/LDWS.jpg" alt="LDWS" class="img-fluid">
 		</div>	
 	</div>
 	
@@ -134,7 +134,7 @@
 			<p class="small">再生メニューを操作している場合、録画はできません。</p>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/ND-151FCL_on_the_car.jpg" alt="本体 – その場で確認" class="img-fluid">
+			<img src="../../../img/drive_recorder/nd-151fcl_on_the_car.jpg" alt="本体 – その場で確認" class="img-fluid">
 		</div>
 		<div class="col-md-6 mb-4">
 			<h4>専用ビューア – 自宅のパソコンで確認</h4>
@@ -145,7 +145,7 @@
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="http://localhost/archive_nplace/img/drive_recorder/viewer_000.jpg" alt="専用ビューア – 自宅のパソコンで確認" class="img-fluid">
+			<img src="../../../img/drive_recorder/viewer_000.jpg" alt="専用ビューア – 自宅のパソコンで確認" class="img-fluid">
 		</div>
 	</div>
 	
