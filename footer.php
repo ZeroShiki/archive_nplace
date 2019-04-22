@@ -6,20 +6,21 @@
 					<a class="d-block mt-3 mb-3 text-muted" href="#">page to top</a>
 				</div>
 				<div class="col-3 d-none d-sm-block d-md-block">
-					<ul class="list-unstyled text-small">
-						<li><a class="text-muted" href="http://nplace.jp/about/business/">会社概要</a></li>
-						<li><a class="text-muted" href="http://nplace.jp/about/partner/">取引先一覧</a></li>
-						<li><a class="text-muted" href="http://nplace.jp/about/access/">アクセス</a></li>
+					<a href="http://nplace.jp/about/" class="h6"><strong>会社情報</strong></a>
+					<ul class="list-unstyled text-small mt-2">
+						<li><a class="text-muted" href="http://nplace.jp/about/">会社概要</a></li>
 					</ul>
 				</div>
 				<div class="col-3 d-none d-sm-block d-md-block">
-					<ul class="list-unstyled text-small">
+					<a href="http://nplace.jp/product/" class="h6"><strong>商品情報</strong></a>
+					<ul class="list-unstyled text-small mt-2">
 						<li><a class="text-muted" href="http://nplace.jp/product/carnavi/">カーナビゲーション</a></li>
 						<li><a class="text-muted" href="http://nplace.jp/product/drive_recorder/">ドライブレコーダー</a></li>
 					</ul>
 				</div>
 				<div class="col-3 d-none d-sm-block d-md-block">
-					<ul class="list-unstyled text-small">
+						<a href="http://nplace.jp/support/" class="h6"><strong>サポート</strong></a>
+					<ul class="list-unstyled text-small mt-2">
 						<li><a class="text-muted" href="http://nplace.jp/support/inquiry/">お問い合わせ</a></li>
 						<li><a class="text-muted" href="http://nplace.jp/support/download/">ダウンロード</a></li>
 						<li><a class="text-muted" href="http://nplace.jp/support/repair/">修理のご依頼</a></li>
@@ -28,14 +29,11 @@
 					</ul>
 				</div>
 			</div>
-	   	 	<p class="small"><a class="text-muted" href="http://nplace.jp/">Copyright © NPLACE.CO,.LTD. All Rights Reserved.</a></p>
+	   	 	<span class="small mr-3"><a class="text-muted" href="http://nplace.jp/">Copyright © NPLACE.CO,.LTD. All Rights Reserved.</a></span>
+			<span class="small mr-3 text-white-50"><a class="text-white-50" href="http://nplace.jp/achives/category/update/"><i class="fas fa-chevron-right"></i>更新情報</a></span>
+			<span class="small mr-3 text-white-50"><a class="text-white-50" href="http://nplace.jp/achives/category/information/"><i class="fas fa-chevron-right"></i>お知らせ</a></span>
+			<span class="small text-white-50"><a class="text-white-50" href="https://www.youtube.com/user/NPLACEchannel" target="_blank"><i class="fab fa-youtube"></i>Youtube</a></span>
 		</div>
 	</footer>
-
-	<!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
 </html>

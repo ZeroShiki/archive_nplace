@@ -66,7 +66,7 @@
 				<td>8GB 内蔵メモリー</td>
 			</tr>
 			<tr>
-				<th scope="row">microSDスロット</th>
+				<th scope="row" width="200px">microSDスロット</th>
 				<td>32GBまでのmicroSDカード・microSDHCカードに対応</td>
 			</tr>
 			<tr>

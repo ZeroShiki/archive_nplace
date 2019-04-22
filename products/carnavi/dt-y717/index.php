@@ -12,7 +12,7 @@
 	</nav>
 	<p class="">DIANAVI DT-Y717</p>
 	<div id="carouselIndicators" class="carousel slide my-3" data-ride="carousel">
-	  <div class="carousel-inner">
+		<div class="carousel-inner">
 			<ol class="carousel-indicators">
 				<li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
 				<li data-target="#carouselIndicators" data-slide-to="1"></li>
@@ -64,7 +64,7 @@
 	<table class="table mb-5 table-sm spec">
 		<tbody>
 			<tr>
-				<th scope="row">マップソフト</th>
+				<th scope="row" width="200px">マップソフト</th>
 				<td>16GB 内蔵メモリー</td>
 			</tr>
 			<tr>

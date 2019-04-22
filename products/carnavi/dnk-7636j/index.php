@@ -45,7 +45,7 @@
 
 	<div class="row justify-content-center">
 		<a href="#map-2016aut"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2016年度版マップ秋</button></a>
-		<a href="#rurubu2016"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2017年度版るるぶDATA</button></a>
+		<a href="#rurubu2016-book"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2017年度版るるぶDATA</button></a>
 		<a href="#fullseg"><button type="button" class="btn btn-outline-dark m-1 btn-sm">フルセグチューナー内蔵</button></a>
 		<a href="#menu_btn"><button type="button" class="btn btn-outline-dark m-1 btn-sm">押しやすいメニューボタン</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">エンジンキー電源連動</button></a>
@@ -56,7 +56,7 @@
 	<?php
 		require_once '../details/map-2016aut.html';
 		require_once '../details/detail-2016aut.html';
-		require_once '../details/rurubu2016.html';
+		require_once '../details/rurubu2016-book.html';
 		require_once '../details/fullseg.html';
 	?>
 	

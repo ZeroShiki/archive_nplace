@@ -5,7 +5,7 @@ $enable-gradients: true;
 table.spec {
 	font-size: 0.9rem;
 }
-
+ 
 #carouselIndicators{
    width:80%;  /*サイズ指定*/
    margin:auto;
@@ -140,6 +140,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 150px;
+	color: #444444;
 }
 
 /* Custom page CSS

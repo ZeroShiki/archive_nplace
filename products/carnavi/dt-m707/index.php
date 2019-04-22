@@ -19,10 +19,10 @@
 				<li data-target="#carouselIndicators" data-slide-to="2"></li>
 			</ol>
 			<div class="carousel-item active">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-M707_front.jpg" alt="First slide">
+				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DT-M707_front.jpg" alt="First slide">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-M707_back.jpg" alt="Second slide">
+				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DT-M707_back.jpg" alt="Second slide">
 			</div>
 			</div>
 		<a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
@@ -63,7 +63,7 @@
 	<table class="table mb-5 table-sm spec">
 		<tbody>
 			<tr>
-				<th scope="row">マップソフト</th>
+				<th scope="row" width="200px">マップソフト</th>
 				<td>8GB 内蔵メモリー</td>
 			</tr>
 			<tr>

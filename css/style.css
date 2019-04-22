@@ -6936,7 +6936,8 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 150px; }
+  margin-bottom: 150px;
+  color: #444444; }
 
 /* Custom page CSS
 -------------------------------------------------- */

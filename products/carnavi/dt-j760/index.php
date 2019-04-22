@@ -64,7 +64,7 @@
 	<table class="table mb-5 table-sm spec">
 		<tbody>
 			<tr>
-			  <th scope="row">マップソフト</th>
+			  <th scope="row" width="200px">マップソフト</th>
 			  <td>16GB 内蔵メモリー</td>
 			</tr>
 			<tr>

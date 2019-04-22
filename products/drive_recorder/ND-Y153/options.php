@@ -30,7 +30,7 @@
 					<img class="card-img-top" src="../../../img/drive_recorder/ND-Y153_band.jpg" alt="専用取付ブラケット">
 					<div class="card-body-option">
 						<p class="card-title">取付バンド</p>
-						<p class="card-text">1,500円（税抜）</p>
+						<p class="card-text">1,000円（税抜）</p>
 						<p class="card-text">２個／ルームミラーに本体を取り付ける場合に使用します。</p>
 					</div>
 				</div>

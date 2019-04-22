@@ -18,10 +18,10 @@
 				<li data-target="#carouselIndicators" data-slide-to="1"></li>
 			</ol>
 			<div class="carousel-item active">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-Y75_front.jpg" alt="正面">
+				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DT-Y75_front.jpg" alt="正面">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="http://localhost/archive_nplace/img/carnavi/DT-Y75_back.jpg" alt="背面">
+				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DT-Y75_back.jpg" alt="背面">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
@@ -64,7 +64,7 @@
 	<table class="table mb-5 table-sm spec">
 		<tbody>
 			<tr>
-				<th scope="row">マップソフト</th>
+				<th scope="row" width="200px">マップソフト</th>
 				<td>16GB 内蔵メモリー</td>
 			</tr>
 			<tr>

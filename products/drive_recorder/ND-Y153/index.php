@@ -124,7 +124,7 @@
 	<table class="table table-sm">
 		<tbody>
 			<tr>
-				<th scope="row">サイズ</th>
+				<th scope="row" width="35%">サイズ</th>
 				<td>約(W) 320 ×(H) 95 ×(D) 15 mm（突起、レンズ部を除く）</td>
 			</tr>
 			<tr>
@@ -192,7 +192,7 @@
 	<table class="table mb-3 table-sm">
 		<tbody>
 			<tr>
-				<th scope="row" rowspan="2">16GB microSDカード</th>
+				<th scope="row" rowspan="2" width="35%">16GB microSDカード</th>
 				<th>解像度</th>
 				<th>録画時間</th>
 			</tr>

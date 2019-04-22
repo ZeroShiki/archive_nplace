@@ -6,7 +6,7 @@
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="../../../index.php">ホーム</a></li>
-			<li class="breadcrumb-item"><a href="../index.php">カーナビゲーション</a></li>
+			<li class="breadcrumb-item"><a href="../../index.html">カーナビゲーション</a></li>
 			<li class="breadcrumb-item active" aria-current="page">DNC-757A</li>
 		</ol>
 	</nav>
@@ -66,7 +66,7 @@
 	<table class="table mb-5 table-sm spec">
 		<tbody>
 			<tr>
-				<th scope="row">マップソフト</th>
+				<th scope="row" width="200px">マップソフト</th>
 				<td>8GB 内蔵メモリー</td>
 			</tr>
 			<tr>

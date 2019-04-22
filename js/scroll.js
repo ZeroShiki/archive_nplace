@@ -1,4 +1,3 @@
-<script>
 $(document).ready(function() {
   var pagetop = $('.pagetop');
     $(window).scroll(function () {
@@ -13,4 +12,3 @@ $(document).ready(function() {
               return false;
    });
 });
-</script>

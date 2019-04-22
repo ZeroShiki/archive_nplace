@@ -124,7 +124,7 @@
 	<table class="table table-sm">
 		<tbody>
 			<tr>
-				<th scope="row">サイズ</th>
+				<th scope="row" width="35%">サイズ</th>
 				<td>約(W) 80 ×(H) 44 ×(D) 15 mm（突起、レンズ部を除く）</td>
 			</tr>
 			<tr>
@@ -156,7 +156,7 @@
 				<td>DC12V / 24V</td>
 			</tr>
 			<tr>
-				<th scope="row">シガー電源アダプターヒューズ</th>
+				<th scope="row">シガー電源<br>アダプターヒューズ</th>
 				<td>ガラス管ヒューズ（6mm×30mm）1A</td>
 			</tr>
 			<tr>
@@ -192,7 +192,7 @@
 	<table class="table mb-3 table-sm">
 		<tbody>
 			<tr>
-				<th scope="row" rowspan="5">16GB microSDカード</th>
+				<th scope="row" rowspan="5" width="35%">16GB microSDカード</th>
 				<th>解像度</th>
 				<th>録画時間</th>
 			</tr>
