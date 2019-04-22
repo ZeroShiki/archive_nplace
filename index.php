@@ -45,7 +45,7 @@
 	
 	<h3 class="mt-3 mb-3"><strong>更新情報</strong></h3>
 	<div class="pb-3">
-		<table class="table mb-3 table-sm spec">
+		<table class="table mb-3 spec">
 			<tbody>
 				<tr>
 					<th scope="row" class="text-nowrap">2018.12.04</th>

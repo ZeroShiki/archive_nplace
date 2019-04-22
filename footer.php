@@ -30,9 +30,9 @@
 				</div>
 			</div>
 	   	 	<span class="small mr-3"><a class="text-muted" href="http://nplace.jp/">Copyright © NPLACE.CO,.LTD. All Rights Reserved.</a></span>
-			<span class="small mr-3 text-white-50"><a class="text-white-50" href="http://nplace.jp/achives/category/update/"><i class="fas fa-chevron-right"></i>更新情報</a></span>
-			<span class="small mr-3 text-white-50"><a class="text-white-50" href="http://nplace.jp/achives/category/information/"><i class="fas fa-chevron-right"></i>お知らせ</a></span>
-			<span class="small text-white-50"><a class="text-white-50" href="https://www.youtube.com/user/NPLACEchannel" target="_blank"><i class="fab fa-youtube"></i>Youtube</a></span>
+			<span class="small mr-3 text-muted"><a class="text-white-50" href="http://nplace.jp/achives/category/update/"><i class="fas fa-chevron-right"></i>更新情報</a></span>
+			<span class="small mr-3 text-muted"><a class="text-white-50" href="http://nplace.jp/achives/category/information/"><i class="fas fa-chevron-right"></i>お知らせ</a></span>
+			<span class="small text-muted"><a class="text-white-50" href="https://www.youtube.com/user/NPLACEchannel" target="_blank"><i class="fab fa-youtube"></i>Youtube</a></span>
 		</div>
 	</footer>
   </body>

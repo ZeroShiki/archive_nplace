@@ -6816,6 +6816,9 @@ a.text-dark:hover, a.text-dark:focus {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6; } }
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1050px; } }
 table.spec {
   font-size: 0.9rem; }
 
@@ -6936,7 +6939,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 150px;
+  margin-bottom: 170px;
   color: #444444; }
 
 /* Custom page CSS
