@@ -1,5 +1,5 @@
 <?php
-	define("title", "DNC-557A");
+	define("title", "DNC-558A");
 	require_once '../../../header.php';
 ?>
 <div class="container" id="wrap">
@@ -8,11 +8,11 @@
 			<ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="../../../index.php">ホーム</a></li>
 				<li class="breadcrumb-item"><a href="../index.php">カーナビゲーション</a></li>
-				<li class="breadcrumb-item"><a href="index.php">DNC-557A</a></li>
+				<li class="breadcrumb-item"><a href="index.php">DNC-558A</a></li>
 				<li class="breadcrumb-item active" aria-current="page">オプション</li>
 			</ol>
 		</nav>
-		<p class="">DIANAVI DNC-557A オプション</p>
+		<p class="">DIANAVI DNC-558A オプション</p>
 		<h3 class="mb-4 mt-3 pb-2 border-bottom"><strong>同梱オプション</strong></h3>
 		<div class="row mb-5">
 			<?php
@@ -24,10 +24,10 @@
 			?>
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="option mb-4">
-					<img class="card-img-top" src="../../../img/carnavi/DNC-557A_manual_pict.jpg" alt="取扱説明書">
+					<img class="card-img-top" src="../../../img/carnavi/DNC-558A_manual_pict.jpg" alt="取扱説明書">
 					<div class="card-body-option">
 						<p class="card-title">取扱説明書</p>
-						<h4 class="card-text">OP-M557</h4>
+						<h4 class="card-text">OP-M558</h4>
 						<p class="card-text">2,500円（税抜）</p>
 						<p class="card-text">ナビゲーション本体に関する詳しい操作方法が記載されています。</p>
 					</div>

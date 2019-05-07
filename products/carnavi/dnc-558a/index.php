@@ -1,5 +1,5 @@
 <?php
-	define("title", "DNC-557A");
+	define("title", "DNC-558A");
 	require_once '../../../header.php';
 ?>
 <div class="container" id="wrap">
@@ -7,10 +7,10 @@
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="../../../index.php">ホーム</a></li>
 			<li class="breadcrumb-item"><a href="../index.php">カーナビゲーション</a></li>
-			<li class="breadcrumb-item active" aria-current="page">DNC-557A</li>
+			<li class="breadcrumb-item active" aria-current="page">DNC-558A</li>
 		</ol>
 	</nav>
-	<p class="">DIANAVI DNC-557A</p>
+	<p class="">DIANAVI DNC-558A</p>
 	<div id="carouselIndicators" class="carousel slide my-3" data-ride="carousel">
 		<div class="carousel-inner">
 			<ol class="carousel-indicators">
@@ -19,13 +19,13 @@
 				<li data-target="#carouselIndicators" data-slide-to="2"></li>
 			</ol>
 			<div class="carousel-item active">
-				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-557A_front.jpg" alt="正面">
+				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-558A_front.jpg" alt="正面">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-557A_back.jpg" alt="背面">
+				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-558A_back.jpg" alt="背面">
 			</div>
 			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-557A_pers.jpg" alt="T斜め">
+				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-558A_pers.jpg" alt="T斜め">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
@@ -40,18 +40,18 @@
 	
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
-		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DNC-557A_manual_web_v3.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DNC-558A_manual_web_v2.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
 	</div>
 
 	<div class="row justify-content-center">
-		<a href="#map-2017sp"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2017年度版マップ春</button></a>
+		<a href="#map-2018sp"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2018年度版マップ春</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">エンジンキー電源連動</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">マルチメディア機能</button></a>
 	</div>
 
 	<?php
-		require_once '../details/map-2017sp.html';
-		require_once '../details/detail-2017sp.html';
+		require_once '../details/map-2018sp.html';
+		require_once '../details/detail-2018sp.html';
 	?>
 
 	<h3 class="mb-4 pb-2 border-bottom" id="others"><strong>その他の機能</strong></h3>
@@ -108,7 +108,7 @@
 		</tbody>
 	</table>	 
 	<?php
-		require_once '../details/map-2017sp-db.html';
+		require_once '../details/map-2018sp-db.html';
 		require_once '../details/media5inch_c.html';
 	?>  
 </div>
