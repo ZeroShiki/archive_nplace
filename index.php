@@ -48,12 +48,20 @@
 		<table class="table mb-3 spec">
 			<tbody>
 				<tr>
+					<th scope="row" class="text-nowrap">2017.09.22</th>
+					<td><a href="products/carnavi/dnc-758a/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNC-758A」を公開しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2017.09.22</th>
+					<td><a href="products/carnavi/dnc-558a/">【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNC-558A」を公開しました。</a></td>
+				</tr>
+				<tr>
 					<th scope="row" class="text-nowrap">2018.12.04</th>
 					<td>生産完了品ページをリニューアルしました。</td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2017.09.22</th>
-					<td>【カーナビ】2017年度 秋版 ポータブルカーナビゲーション「DNK-77F」「DT-Y717」「DT-RC317」「DT-Y307」を公開しました。</td>
+					<td>【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNK-77F」「DT-Y717」「DT-RC317」「DT-Y307」を公開しました。</td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2017.04.19</th>
