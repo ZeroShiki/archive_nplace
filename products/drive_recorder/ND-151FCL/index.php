@@ -48,7 +48,7 @@
 		<a href="#recording"><button type="button" class="btn btn-outline-dark m-1 btn-sm">３つの録画モード</button></a>
 		<a href="#quality"><button type="button" class="btn btn-outline-dark m-1 btn-sm">高画質録画</button></a>
 		<a href="#ldws"><button type="button" class="btn btn-outline-dark m-1 btn-sm">LDWS</button></a>
-		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像</button></a>
+		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
 	</div>
 	
 	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="recording"><strong>３つの録画モード</strong></h3>

@@ -49,11 +49,11 @@
 			<tbody>
 				<tr>
 					<th scope="row" class="text-nowrap">2017.09.22</th>
-					<td><a href="products/carnavi/dnc-758a/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNC-758A」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnc-758a/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNC-758A」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2017.09.22</th>
-					<td><a href="products/carnavi/dnc-558a/">【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNC-558A」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnc-558a/">【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNC-558A」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2018.12.04</th>
@@ -61,75 +61,75 @@
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2017.09.22</th>
-					<td>【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNK-77F」「DT-Y717」「DT-RC317」「DT-Y307」を公開しました。</td>
+					<td>【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNK-77F」「DT-Y717」「DT-RC317」「DT-Y307」を追加しました。</td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2017.04.19</th>
-					<td><a href="products/carnavi/dnk-7647j/">【カーナビ】2017年度春版 7インチフルセグカーナビゲーション「DNK-7647J」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnk-7647j/">【カーナビ】2017年度春版 7インチフルセグカーナビゲーション「DNK-7647J」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2016.10.11</th>
-					<td><a href="products/carnavi/dnk-7636j/">【カーナビ】2016年度秋版 7インチフルセグカーナビゲーション「DNK-7636J」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnk-7636j/">【カーナビ】2016年度秋版 7インチフルセグカーナビゲーション「DNK-7636J」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2016.10.4</th>
-					<td>【DR】ワンボディー型DR「NDR-161」「NDR-163」「NDR-165」、ルームミラー型DR「NDR-167M」を公開しました。</td>
+					<td>【DR】ワンボディー型DR「NDR-161」「NDR-163」「NDR-165」、ルームミラー型DR「NDR-167M」を追加しました。</td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2016.10.4</th>
-					<td>【カーナビ】2016年度 秋版 ポータブルカーナビゲーション「DNK-76F」「DT-Y716」「DT-Y516」「DT-Y306」を公開しました。</td>
+					<td>【カーナビ】2016年度 秋版 ポータブルカーナビゲーション「DNK-76F」「DT-Y716」「DT-Y516」「DT-Y306」を追加しました。</td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2016.2.10</th>
-					<td><a href="products/carnavi/dnk-7705/">【カーナビ】2015年度版 7インチフルセグカーナビゲーション「DNK-7705」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnk-7705/">【カーナビ】2015年度版 7インチフルセグカーナビゲーション「DNK-7705」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2016.1.12</th>
-					<td><a href="products/carnavi/dt-j750/">【カーナビ】2015年度版 7インチワンセグカーナビゲーション「DT-J750」を公開しました。</a></td>
+					<td><a href="products/carnavi/dt-j750/">【カーナビ】2015年度版 7インチワンセグカーナビゲーション「DT-J750」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.12.14</th>
-					<td><a href="products/carnavi/dnk-785a/">【カーナビ】2015年度版 7インチワンセグカーナビゲーション「DNK-785A」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnk-785a/">【カーナビ】2015年度版 7インチワンセグカーナビゲーション「DNK-785A」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.11.20</th>
-					<td><a href="products/drive_recorder/nd-y153/">【DR】ルームミラー型Full HDドライブレコーダー「ND-Y153」を公開しました。</a></td>
+					<td><a href="products/drive_recorder/nd-y153/">【DR】ルームミラー型Full HDドライブレコーダー「ND-Y153」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.11.20</th>
-					<td><a href="products/drive_recorder/nd-y152/">【DR】Full HDドライブレコーダー「ND-Y152」を公開しました。</a></td>
+					<td><a href="products/drive_recorder/nd-y152/">【DR】Full HDドライブレコーダー「ND-Y152」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.9.7</th>
-					<td><a href="products/carnavi/dt-y75/">【カーナビ】2015年度版 7インチワンセグカーナビゲーション「DT-Y75」を公開しました。</a></td>
+					<td><a href="products/carnavi/dt-y75/">【カーナビ】2015年度版 7インチワンセグカーナビゲーション「DT-Y75」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.9.7</th>
-					<td><a href="products/carnavi/dt-y55/">【カーナビ】2015年度版 5インチフルセグカーナビゲーション「DT-Y55」を公開しました。</a></td>
+					<td><a href="products/carnavi/dt-y55/">【カーナビ】2015年度版 5インチフルセグカーナビゲーション「DT-Y55」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.8.31</th>
-					<td><a href="products/carnavi/dnc-565/">【カーナビ】2015年度版 5インチワンセグカーナビゲーション「DNC-565」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnc-565/">【カーナビ】2015年度版 5インチワンセグカーナビゲーション「DNC-565」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.8.31</th>
-					<td><a href="products/carnavi/dnc-055a/">【カーナビ】2015年度版 5インチワンセグカーナビゲーション「DNC-055A」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnc-055a/">【カーナビ】2015年度版 5インチワンセグカーナビゲーション「DNC-055A」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.8.21</th>
-					<td><a href="products/carnavi/dnk-7615j/">【カーナビ】2015年度版 7インチフルセグカーナビゲーション「DNK-7615J」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnk-7615j/">【カーナビ】2015年度版 7インチフルセグカーナビゲーション「DNK-7615J」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.7.13</th>
-					<td><a href="products/carnavi/dnc-057n/">【カーナビ】2015年度版 5インチワンセグカーナビゲーション「DNC-057N」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnc-057n/">【カーナビ】2015年度版 5インチワンセグカーナビゲーション「DNC-057N」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.6.30</th>
-					<td><a href="products/drive_recorder/nd-151fcl/">【DR】Full HDドライブレコーダー「ND-151FCL」を公開しました。</a></td>
+					<td><a href="products/drive_recorder/nd-151fcl/">【DR】Full HDドライブレコーダー「ND-151FCL」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.4.17</th>
-					<td><a href="products/carnavi/dnk-784a/">【カーナビ】7インチワンセグカーナビゲーション「DNK-784A」を公開しました。</a></td>
+					<td><a href="products/carnavi/dnk-784a/">【カーナビ】7インチワンセグカーナビゲーション「DNK-784A」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2015.4.2</th>

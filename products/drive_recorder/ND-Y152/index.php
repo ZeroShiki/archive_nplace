@@ -42,7 +42,7 @@
 	<div class="row justify-content-center">
 		<a href="#recording"><button type="button" class="btn btn-outline-dark m-1 btn-sm">３つの録画モード</button></a>
 		<a href="#quality"><button type="button" class="btn btn-outline-dark m-1 btn-sm">高画質録画</button></a>
-		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像</button></a>
+		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
 	</div>
 	
 	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="recording"><strong>３つの録画モード</strong></h3>
@@ -109,7 +109,6 @@
 	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="playback"><strong>録画した映像を本体でもパソコンでも確認</strong></h3>
 	<div class="row">
 		<div class="col-md-6 mb-4">
-			<h4>本体 – その場で確認</h4>
 			<p>録画／撮影したファイルは車内その場で確認することができます。<br>microSDカードを取り外して、パソコンに接続して映像／画像を閲覧することもできます。（拡張子：AVIが再生可能な動画プレーヤー、JPGが表示できるフォトビューワーが必要です。）</p>
 			<p class="small mb-0">※録画中はモード切替ボタン、メニューボタン、電源ボタンは機能しません。</p>
 			<p class="small">※再生メニューを操作している場合、録画はできません。</p>
