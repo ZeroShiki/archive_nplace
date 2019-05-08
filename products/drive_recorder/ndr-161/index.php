@@ -92,28 +92,15 @@
 		</div>
 	</div>
 	
-	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>自動LCDオフ機能</strong></h3>
-	<div class="row">
-		<div class="col-md-6 mb-4">
-			<p>録画開始から時間が経過すると、LCDを自動的にオフにします。1分、3分、5分から設定することができます。（常時オンも可能です。）</p>
-		</div>
-		<div class="col-md-6 mb-4">
-			<img src="../../../img/drive_recorder/NDR-161_kakunin.jpg" alt="自動LCDオフ" class="img-fluid">
-		</div>
+	<h3 class="mb-4 pb-2 border-bottom" id="others"><strong>その他の機能</strong></h3>
+	<div class="mb-5">
+		<h4 id="quality">自動LCDオフ機能</h4>
+		<p>録画開始から時間が経過すると、LCDを自動的にオフにします。1分、3分、5分から設定することができます。（常時オンも可能です。）</p>
+		<h4 id="playback" class="mt-4">録画した映像を本体でもパソコンでも確認</h4>
+		<p>録画／撮影したファイルは車内その場で確認することができます。<br>microSDカードを取り外して、パソコンに接続して映像／画像を閲覧することもできます。（拡張子：AVIが再生可能な動画プレーヤー、JPGが表示できるフォトビューワーが必要です。）</p>
+		<p class="small mb-0">※録画中はモード切替ボタン、メニューボタン、電源ボタンは機能しません。</p>
+		<p class="small">※再生メニューを操作している場合、録画はできません。</p>
 	</div>
-	
-	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="playback"><strong>録画した映像を本体でもパソコンでも確認</strong></h3>
-	<div class="row">
-		<div class="col-md-6 mb-4">
-			<p>録画／撮影したファイルは車内その場で確認することができます。<br>microSDカードを取り外して、パソコンに接続して映像／画像を閲覧することもできます。（拡張子：AVIが再生可能な動画プレーヤー、JPGが表示できるフォトビューワーが必要です。）</p>
-			<p class="small mb-0">※録画中はモード切替ボタン、メニューボタン、電源ボタンは機能しません。</p>
-			<p class="small">※再生メニューを操作している場合、録画はできません。</p>
-		</div>
-		<div class="col-md-6 mb-4">
-			<img src="../../../img/drive_recorder/NDR-161_LCD_off.jpg" alt="本体 – その場で確認" class="img-fluid">
-		</div>
-	</div>
-	
 
 	<h3 class="mt-3 mb-3"><strong>仕様</strong></h3>
 	<table class="table table-sm">

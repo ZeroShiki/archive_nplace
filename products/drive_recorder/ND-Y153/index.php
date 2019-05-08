@@ -135,7 +135,7 @@
 			</tr>
 			<tr>
 				<th scope="row">カメラ</th>
-				<td>130万画素 Full HD<br>対角120°／水平90°／垂直50°<br>FHD（1920×1080）25fps／HD（1280×720）25fps／</td>
+				<td>130万画素 Full HD<br>対角120°／水平90°／垂直50°<br>FHD（1920×1080）25fps／HD（1280×720）25fps</td>
 			</tr>
 			<tr>
 				<th scope="row">音声</th>

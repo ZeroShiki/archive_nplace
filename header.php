@@ -34,20 +34,6 @@
 		<script src="http://archive.nplace.jp/js/jquery-3.4.0.min.js"></script>
 		<script src="http://archive.nplace.jp/js/breadcrumb.js"></script>
 		<script src="http://archive.nplace.jp/js/scroll.js"></script>
-		
-		<script>
-			$(function(){
-			  $('a[href^="#"]').click(function() {
-				  var headerHeight = 80;
-				  var speed = 400;
-				  var href= $(this).attr("href");
-				  var target = $(href == "#" || href == "" ? 'html' : href);
-				  var position = target.offset().top - headerHeight;
-				  $('body,html').animate({scrollTop:position}, speed, 'swing');
-				  return false;
-				});
-			});
-		</script>
 
 		<title>エンプレイス|<?php echo title; ?></title>
 	</head>
