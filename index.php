@@ -48,11 +48,11 @@
 		<table class="table mb-3 spec">
 			<tbody>
 				<tr>
-					<th scope="row" class="text-nowrap">2017.09.22</th>
+					<th scope="row" class="text-nowrap">2019.05.14</th>
 					<td><a href="products/carnavi/dnc-758a/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNC-758A」を追加しました。</a></td>
 				</tr>
 				<tr>
-					<th scope="row" class="text-nowrap">2017.09.22</th>
+					<th scope="row" class="text-nowrap">2019.05.14</th>
 					<td><a href="products/carnavi/dnc-558a/">【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNC-558A」を追加しました。</a></td>
 				</tr>
 				<tr>

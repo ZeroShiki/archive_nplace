@@ -102,7 +102,7 @@
 			<p>2録画開始から時間が経過すると、LCDを自動的にオフにします。1分、3分から設定することができます。（常時オンも可能です）</p>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="../../../img/drive_recorder/ND-Y152_kakunin.jpg" alt="自動LCDオフ" class="img-fluid">
+			<img src="../../../img/drive_recorder/ND-Y152_LCD_off.jpg" alt="自動LCDオフ" class="img-fluid">
 		</div>
 	</div>
 	
@@ -114,7 +114,7 @@
 			<p class="small">※再生メニューを操作している場合、録画はできません。</p>
 		</div>
 		<div class="col-md-6 mb-4">
-			<img src="../../../img/drive_recorder/ND-Y152_LCD_off.jpg" alt="本体 – その場で確認" class="img-fluid">
+			<img src="../../../img/drive_recorder/ND-Y152_kakunin.jpg" alt="本体 – その場で確認" class="img-fluid">
 		</div>
 	</div>
 	
