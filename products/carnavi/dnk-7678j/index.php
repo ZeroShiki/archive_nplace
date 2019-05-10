@@ -23,7 +23,7 @@
 
 	<div class="row justify-content-center">
 		<a href="#udfont"><button type="button" class="btn btn-outline-dark m-1 btn-sm">UDフォント</button></a>
-		<a href="#map-2018sp"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2018年度版マップ秋</button></a>
+		<a href="#map-2018sp"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2018年度版マップ春</button></a>
 		<a href="#fullseg"><button type="button" class="btn btn-outline-dark m-1 btn-sm">フルセグチューナー内蔵</button></a>
 		<a href="#rurubu2018"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2018年度版るるぶDATA</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">エンジンキー電源連動</button></a>

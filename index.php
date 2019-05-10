@@ -48,12 +48,20 @@
 		<table class="table spec">
 			<tbody>
 				<tr>
-					<th scope="row" class="text-nowrap">2019.05.14</th>
+					<th scope="row" class="text-nowrap">2019.05.10</th>
+					<td><a href="products/carnavi/dnk-9608j/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNK-9608J」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.05.10</th>
+					<td><a href="products/carnavi/dnk-7678j/">【カーナビ】2018年度秋版 ポータブルカーナビゲーション「DNK-7678J」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.05.10</th>
 					<td><a href="products/carnavi/dnc-758a/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNC-758A」を追加しました。</a></td>
 				</tr>
 				<tr>
-					<th scope="row" class="text-nowrap">2019.05.14</th>
-					<td><a href="products/carnavi/dnc-558a/">【カーナビ】2017年度秋版 ポータブルカーナビゲーション「DNC-558A」を追加しました。</a></td>
+					<th scope="row" class="text-nowrap">2019.05.10</th>
+					<td><a href="products/carnavi/dnc-558a/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNC-558A」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2018.12.04</th>
