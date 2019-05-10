@@ -71,7 +71,7 @@ table.spec {
 
 .card-title {
 	margin-bottom: 0.5rem;
-	font-size: 130%;
+	font-size: 120%;
 	font-weight: 600;
 }
 
@@ -145,6 +145,7 @@ html {
 }
 body {
   /* Margin bottom by footer height */
+	font-size: 14px;
   margin-bottom: 170px;
 	color: #444444 !important;
 }
