@@ -44,8 +44,8 @@
 	</div>
 	
 	<h3 class="mt-3 mb-3"><strong>更新情報</strong></h3>
-	<div class="pb-3">
-		<table class="table mb-3 spec">
+	<div>
+		<table class="table spec">
 			<tbody>
 				<tr>
 					<th scope="row" class="text-nowrap">2019.05.14</th>
@@ -142,6 +142,7 @@
 			</tbody>
 		</table>
 	</div>
+	<p class="text-center my-5 text-muted"><i class="fas fa-camera-retro"></i> フォトギャラリーを準備中です！</p>
 </div>
 <?php
 	require_once 'footer.php';

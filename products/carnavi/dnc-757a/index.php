@@ -11,33 +11,11 @@
 		</ol>
 	</nav>
 	<p class="">DIANAVI DNC-757A</p>
-	<div id="carouselIndicators" class="carousel slide my-3" data-ride="carousel">
-		<div class="carousel-inner">
-			<ol class="carousel-indicators">
-				<li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
-				<li data-target="#carouselIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselIndicators" data-slide-to="2"></li>
-			</ol>
-			<div class="carousel-item active">
-				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-757A_front.jpg" alt="正面">
-			</div>
-			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-757A_back.jpg" alt="背面">
-			</div>
-			<div class="carousel-item">
-				<img class="w-100 d-block mx-auto" src="../../../img/carnavi/DNC-757A_pers.jpg" alt="斜め">
-			</div>
-		 </div>
-		 <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
-			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-			<span class="sr-only">Previous</span>
-		 </a>
-		 <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
-			<span class="carousel-control-next-icon" aria-hidden="true"></span>
-			<span class="sr-only">Next</span>
-		 </a>
-	</div>
 	
+	<div class="justify-content-center">
+		<img class="w-75 d-block mx-auto" src="../../../img/carnavi/DNC-757A_front.jpg" alt="正面">
+	</div>
+
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
 		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DNC-757A_manual_web_v3.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
