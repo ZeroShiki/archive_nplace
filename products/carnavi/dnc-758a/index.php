@@ -18,6 +18,7 @@
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
 		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DNC-758A_manual_web_v2.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+		<a href="http://support.nplace.jp/download/firmware/dnc-757a/"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">ファームウェア</button></a>
 	</div>
 
 	<div class="row justify-content-center">

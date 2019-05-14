@@ -53,7 +53,7 @@
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2019.05.10</th>
-					<td><a href="products/carnavi/dnk-7678j/">【カーナビ】2018年度秋版 ポータブルカーナビゲーション「DNK-7678J」を追加しました。</a></td>
+					<td><a href="products/carnavi/dnk-7678j/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNK-7678J」を追加しました。</a></td>
 				</tr>
 				<tr>
 					<th scope="row" class="text-nowrap">2019.05.10</th>

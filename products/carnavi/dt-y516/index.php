@@ -19,6 +19,7 @@
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
 		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DT-Y516_manual_web_v3.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+		<a href="http://support.nplace.jp/download/firmware/dt-y516/"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">ファームウェア</button></a>
 	</div>
 	
 	<div class="row justify-content-center">

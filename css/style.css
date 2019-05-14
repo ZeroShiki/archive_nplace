@@ -6974,3 +6974,6 @@ li.index-spec {
 .news-product dl dd, #news-product dl dt {
   font-size: 0.9rem;
   line-height: 19px; }
+
+.dropdown:hover .dropdown-menu {
+  display: block; }
