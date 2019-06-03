@@ -45,7 +45,7 @@
 		<tbody>
 			<tr>
 				<th scope="row" width="200px">マップソフト</th>
-				<td>8GB 内蔵メモリー</td>
+				<td>16GB 内蔵メモリー</td>
 			</tr>
 			<tr>
 				<th scope="row">microSDスロット</th>
@@ -87,6 +87,7 @@
 	</table>
 	<?php
 		require_once '../details/map-2018sp-db.html';
+		require_once '../details/rurubu2018-db.html';
 		require_once '../details/media7inch_c.html';
 	?>  
 </div>
