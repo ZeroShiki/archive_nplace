@@ -23,10 +23,22 @@
 	</div>
 
 	<div class="row justify-content-center">
-		<a href="#recording"><button type="button" class="btn btn-outline-dark m-1 btn-sm">３つの録画モード</button></a>
 		<a href="#quality"><button type="button" class="btn btn-outline-dark m-1 btn-sm">高画質録画</button></a>
+		<a href="#recording"><button type="button" class="btn btn-outline-dark m-1 btn-sm">３つの録画モード</button></a>
 		<a href="#ldws"><button type="button" class="btn btn-outline-dark m-1 btn-sm">LDWS</button></a>
 		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
+	</div>
+	
+	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
+	<div class="row">
+		<div class="col-md-6 mb-4">
+			<h4>200万画素 CMOSセンサーを搭載</h4>
+			<p>SONY製CMOSセンサーを搭載。200万画素の高画質で精細な映像を記録し、昼間や夜間でも鮮明な映像を残すことができます。</p>
+			<p class="small">※解像度は 1920×1080p となります。</p>
+		</div>
+		<div class="col-md-6 mb-4">
+			<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sfRO5BP3Fdw" allowfullscreen></iframe></div>
+		</div>	
 	</div>
 	
 	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="recording"><strong>３つの録画モード</strong></h3>
@@ -51,9 +63,9 @@
 			<p class="small">イベント録画モードの場合、感知した時点の10秒前と30秒後、合わせて40秒間を録画したファイルが生成されます。（※状況により異なります。）</p>
 			<ul class="explanation border-top">
 				<li>イベント録画は１〜５までの５段階で感度調整が行えます。</li>
-				<li>イベント録画の映像ファイルは、Micro SDカード内の「Event」フォルダに保存されます。</li>
+				<li>イベント録画の映像ファイルは、micro SDカード内の「Event」フォルダに保存されます。</li>
 				<li>再生メニューまたは設定メニューで操作している場合、イベント録画は発生しません。</li>
-				<li>容量が不足すると、SDカードのフォーマットを促すメッセージが表示されます。フォーマットするまでイベント録画ができなくなりますので、本製品かパソコンにてフォーマットを行うか、別のMicro SDカードに取り替えてください。また、大事なデータはパソコン等にバックアップすることをお勧めします。</li>
+				<li>容量が不足すると、SDカードのフォーマットを促すメッセージが表示されます。フォーマットするまでイベント録画ができなくなりますので、本製品かパソコンにてフォーマットを行うか、別のmicro SDカードに取り替えてください。また、大事なデータはパソコン等にバックアップすることをお勧めします。</li>
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
@@ -65,27 +77,15 @@
 			<h4>手動録画モード</h4>
 			<p>残しておきたい映像がある場合、手動録画モードを使うと、上書きされずにイベント録画のフォルダに保存されます。（※状況により異なります。）</p>
 			<ul class="explanation border-top">
-				<li>手動録画の映像ファイルは、Micro SDカード内の「Event」フォルダに保存されます。</li>
+				<li>手動録画の映像ファイルは、micro SDカード内の「Event」フォルダに保存されます。</li>
 				<li>再生メニューまたは設定メニューで操作している場合、手動録画はできません。</li>
-				<li>容量が不足すると、SDカードのフォーマットを促すメッセージが表示されます。フォーマットするまで手動録画ができなくなりますので、本製品かパソコンにてフォーマットを行うか、別のMicro SDカードに取り替えてください。また、大事なデータはパソコン等にバックアップすることをお勧めします。</li>
+				<li>容量が不足すると、SDカードのフォーマットを促すメッセージが表示されます。フォーマットするまで手動録画ができなくなりますので、本製品かパソコンにてフォーマットを行うか、別のmicro SDカードに取り替えてください。また、大事なデータはパソコン等にバックアップすることをお勧めします。</li>
 			</ul>
 		</div>
 		<div class="col-md-6 mb-4">
 			<img src="../../../img/drive_recorder/nd-151fcl_manual_recording.png" alt="手動録画モード" class="img-fluid">
 			<p class="small">（※画像はイメージです。）</p>
 		</div>
-	</div>
-	
-	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
-	<div class="row">
-		<div class="col-md-6 mb-4">
-			<h4>200万画素 CMOSセンサーを搭載</h4>
-			<p>SONY製CMOSセンサーを搭載。200万画素の高画質で精細な映像を記録し、昼間や夜間でも鮮明な映像を残すことができます。</p>
-			<p class="small">※解像度は 1920×1080p となります。</p>
-		</div>
-		<div class="col-md-6 mb-4">
-			<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sfRO5BP3Fdw" allowfullscreen></iframe></div>
-		</div>	
 	</div>
 	
 	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="ldws"><strong>未然に事故を防止！車線離脱警告システム（LDWS）</strong></h3>

@@ -27,6 +27,17 @@
 		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
 	</div>
 	
+	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>録画映像</strong></h3>
+	<div class="row">
+		<div class="col-md-6 mb-4">
+			<p class="mb-1">100万画素（1080HD）録画が可能です。</p>
+			<p class="small">（※画面サイズは1920×1080ですが、画質はHD相当のものになります。）</p>
+		</div>
+		<div class="col-md-6 mb-4">
+			<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DKU12F6Yg04" allowfullscreen></iframe></div>
+		</div>	
+	</div>
+	
 	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="recording"><strong>３つの録画モード</strong></h3>
 	<div class="row">
 		<div class="col-md-6 mb-4">

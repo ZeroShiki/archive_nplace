@@ -22,10 +22,21 @@
 	</div>
 
 	<div class="row justify-content-center">
+		<a href="#quality"><button type="button" class="btn btn-outline-dark m-1 btn-sm">高画質録画</button></a>
+
 		<a href="#wdr"><button type="button" class="btn btn-outline-dark m-1 btn-sm">ワイドダイナミックレンジ</button></a>
 		<a href="#recording"><button type="button" class="btn btn-outline-dark m-1 btn-sm">３つの録画モード</button></a>
-		<a href="#quality"><button type="button" class="btn btn-outline-dark m-1 btn-sm">高画質録画</button></a>
 		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
+	</div>
+	
+	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
+	<div class="row">
+		<div class="col-md-6 mb-4">
+			<p>200万画素の高画質で精細な映像を記録し、昼間や夜間でも鮮明な映像を残すことができます。</p>
+		</div>
+		<div class="col-md-6 mb-4">
+			<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ca-c5COFJ3k" allowfullscreen></iframe></div>
+		</div>	
 	</div>
 	
 	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="wdr"><strong>ワイドダイナミックレンジ（WDR）搭載</strong></h3>
@@ -85,15 +96,6 @@
 		</div>
 	</div>
 	
-	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
-	<div class="row">
-		<div class="col-md-6 mb-4">
-			<p>200万画素の高画質で精細な映像を記録し、昼間や夜間でも鮮明な映像を残すことができます。</p>
-		</div>
-		<div class="col-md-6 mb-4">
-			<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ca-c5COFJ3k" allowfullscreen></iframe></div>
-		</div>	
-	</div>
 	
 	<h3 class="mb-4 pb-2 border-bottom" id="others"><strong>その他の機能</strong></h3>
 	<div class="mb-5">
