@@ -18,7 +18,7 @@
 
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
-		<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/dr/NDR-165_manual_web_v5.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+		<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/dr/NDR-165_manual_web_v4.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
 	</div>
 
 	<div class="row justify-content-center">
@@ -26,6 +26,7 @@
 		<a href="#recording"><button type="button" class="btn btn-outline-dark m-1 btn-sm">３つの録画モード</button></a>
 		<a href="#quality"><button type="button" class="btn btn-outline-dark m-1 btn-sm">高画質録画</button></a>
 		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
+		<a href="#gps"><button type="button" class="btn btn-outline-dark m-1 btn-sm">GPS内蔵</button></a>
 	</div>
 	
 	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="wdr"><strong>ワイドダイナミックレンジ（WDR）搭載</strong></h3>
@@ -100,8 +101,11 @@
 		<h4 id="quality">自動LCDオフ機能</h4>
 		<p>録画開始から時間が経過すると、LCDを自動的にオフにします。オフ、1分、3分から設定することができます。</p>
 		<h4 id="playback" class="mt-4">録画した映像を確認を本体でもパソコンでも確認</h4>
-		<p>録画／撮影したファイルは車内その場で確認することができます。また、microSDカードを取り外して、パソコンに接続して映像／画像を閲覧することもできます。<br>（拡張子：MOVが再生可能な動画プレーヤー、JPGが表示できるフォトビューワーが必要です。）</p>
+		<p class="mb-1">録画／撮影したファイルは車内その場で確認することができます。また、microSDカードを取り外して、パソコンに接続して映像／画像を閲覧することもできます。<br>（拡張子：MOVが再生可能な動画プレーヤー、JPGが表示できるフォトビューワーが必要です。）</p>
 		<p class="small">※再生メニューを操作している場合、録画はできません。</p>
+		<h4 id="gps">GPS内蔵</h4>
+		<p class="mb-1">本体にGPSを内蔵しており、自車の位置情報・日時情報等が映像に記録されます。</p>
+		<p class="small">※GPS信号を受信している必要があります。</p>
 	</div>
 
 	<h3 class="mt-3 mb-3"><strong>仕様</strong></h3>
@@ -173,7 +177,7 @@
 			</tr>
 			<tr>
 				<th scope="row">モニター</th>
-				<td>2.4インチ液晶ディスプレイ</td>
+				<td>2.7インチ液晶ディスプレイ</td>
 			</tr>
 		</tbody>
 	</table>

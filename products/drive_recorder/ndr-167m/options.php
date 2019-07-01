@@ -51,7 +51,7 @@
 			<?php require_once '../../carnavi/option/op-sd8c10.html'; ?>
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="option mb-4">
-					<img class="card-img-top" src="../../../img/drive_recorder/op-m161d.jpg" alt="取扱説明書">
+					<img class="card-img-top" src="../../../img/drive_recorder/op-m167md.jpg" alt="取扱説明書">
 					<div class="card-body-option">
 						<p class="card-title">取扱説明書</p>
 						<h4 class="card-text">OP-M167MD</h4>

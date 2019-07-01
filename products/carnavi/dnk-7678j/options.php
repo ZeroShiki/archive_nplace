@@ -25,7 +25,7 @@
 					<img class="card-img-top" src="../../../img/carnavi/DNK-7678J_manual_pict.jpg" alt="取扱説明書">
 					<div class="card-body-option">
 						<p class="card-title">取扱説明書</p>
-						<h4 class="card-text">OP-M7678J</h4>
+						<h4 class="card-text">OP-M7678</h4>
 						<p class="card-text">2,500円（税抜）</p>
 						<p class="card-text">ナビゲーション本体に関する詳しい操作方法が記載されています。</p>
 					</div>

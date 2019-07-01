@@ -18,7 +18,7 @@
 
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
-		<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/dr/NDR-163_manual_web_v5.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+		<a href="http://nplace.jp/wp-content/uploads/downloads/manuals/dr/NDR-163_manual_web_v3.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
 	</div>
 
 	<div class="row justify-content-center">
@@ -173,7 +173,7 @@
 			</tr>
 			<tr>
 				<th scope="row">モニター</th>
-				<td>2.7インチ液晶ディスプレイ</td>
+				<td>2.4インチ液晶ディスプレイ</td>
 			</tr>
 		</tbody>
 	</table>

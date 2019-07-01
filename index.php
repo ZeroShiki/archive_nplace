@@ -48,6 +48,34 @@
 		<table class="table spec">
 			<tbody>
 				<tr>
+					<th scope="row" class="text-nowrap">2019.06.28</th>
+					<td><a href="products/carnavi/dnk-78f/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNK-78F」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.06.28</th>
+					<td><a href="products/carnavi/dt-dr018/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DT-DR018」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.06.28</th>
+					<td><a href="products/carnavi/dt-rc318/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DT-RC318」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.06.28</th>
+					<td><a href="products/carnavi/dt-y308/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DT-Y308」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.06.28</th>
+					<td><a href="products/carnavi/dt-m708/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DT-M708」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.06.28</th>
+					<td><a href="products/carnavi/dt-y518/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DT-Y518」を追加しました。</a></td>
+				</tr>
+				<tr>
+					<th scope="row" class="text-nowrap">2019.06.28</th>
+					<td><a href="products/carnavi/dt-k508/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DT-K508」を追加しました。</a></td>
+				</tr>
+				<tr>
 					<th scope="row" class="text-nowrap">2019.05.10</th>
 					<td><a href="products/carnavi/dnk-9608j/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNK-9608J」を追加しました。</a></td>
 				</tr>

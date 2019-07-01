@@ -1,36 +1,35 @@
 <?php
-	define("title", "DT-M707");
+	define("title", "DT-K508");
 	require_once '../../../header.php';
 ?>
-<div class="container" id="wrap">  	
+<div class="container" id="wrap">
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="../../../index.php">ホーム</a></li>
 			<li class="breadcrumb-item"><a href="../index.php">カーナビゲーション</a></li>
-			<li class="breadcrumb-item active" aria-current="page">DT-M707</li>
+			<li class="breadcrumb-item active" aria-current="page">DT-K508</li>
 		</ol>
 	</nav>
-	<p>DIANAVI DT-M707</p>
-	
+	<p class="">DIANAVI DT-K508</p>
 	<div class="justify-content-center">
-		<img class="w-75 d-block mx-auto" src="../../../img/carnavi/DT-M707_front.jpg" alt="正面">
+		<img class="w-75 d-block mx-auto" src="../../../img/carnavi/DT-K508_front.jpg" alt="正面">
 	</div>
 	
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
-		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DT-M707_manual_web_v2.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
-		<a href="http://support.nplace.jp/download/firmware/dt-m707/"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">ファームウェア</button></a>
+		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DT-K508_manual_web_v1.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+		<a href="http://support.nplace.jp/download/firmware/dt-k508/"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">ファームウェア</button></a>
 	</div>
 
 	<div class="row justify-content-center">
-		<a href="#map-2017aut"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2017年度版マップ秋</button></a>
+		<a href="#map-2018sp"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2018年度版マップ春</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">エンジンキー電源連動</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">マルチメディア機能</button></a>
 	</div>
 
 	<?php
-		require_once '../details/map-2017aut.html';
-		require_once '../details/detail-2017aut.html';
+		require_once '../details/map-2018sp.html';
+		require_once '../details/detail-2018sp.html';
 	?>
 
 	<h3 class="mb-4 pb-2 border-bottom" id="others"><strong>その他の機能</strong></h3>
@@ -54,7 +53,7 @@
 			</tr>
 			<tr>
 				<th scope="row">LEDバックライト液晶</th>
-				<td>7.0インチTFT<br>解像度：800×480 pixelタッチパネル</td>
+				<td>5.0インチTFT<br>解像度：800×480 pixelタッチパネル</td>
 			</tr>
 			<tr>
 				<th scope="row">内蔵スピーカー</th>
@@ -62,7 +61,7 @@
 			</tr>
 			<tr>
 				<th scope="row">イヤホン</th>
-				<td>φ2.5mm ステレオミニジャック</td>
+				<td>φ3.5mm ステレオミニジャック</td>
 			</tr>
 			<tr>
 				<th scope="row">シガー電源</th>
@@ -74,11 +73,11 @@
 			</tr>
 			<tr>
 				<th scope="row">サイズ（約）</th>
-				<td>(W) 184 ×(H) 114 ×(D) 13.5 mm</td>
+				<td>(W) 134 ×(H) 84 ×(D) 13 mm</td>
 			</tr>
 			<tr>
 				<th scope="row">重量（約）</th>
-				<td>285 g</td>
+				<td>165 g</td>
 			</tr>
 			<tr>
 				<th scope="row">生産国</th>
@@ -87,8 +86,8 @@
 		</tbody>
 	</table>
 	<?php
-		require_once '../details/map-2017aut-db.html';
+		require_once '../details/map-2018sp-db.html';
 		require_once '../details/media7inch_c.html';
-	?>    
+	?>  
 </div>
-<?php require_once '../../../footer.php'; ?>
+<?php require_once '../../../footer.php'; ?> 

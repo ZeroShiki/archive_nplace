@@ -1,37 +1,49 @@
 <?php
-	define("title", "DT-M707");
+	define("title", "DT-RC318");
 	require_once '../../../header.php';
 ?>
-<div class="container" id="wrap">  	
+<div class="container" id="wrap">
 	<nav aria-label="breadcrumb" role="navigation" class="bg-light">
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="../../../index.php">ホーム</a></li>
 			<li class="breadcrumb-item"><a href="../index.php">カーナビゲーション</a></li>
-			<li class="breadcrumb-item active" aria-current="page">DT-M707</li>
+			<li class="breadcrumb-item active" aria-current="page">DT-RC318</li>
 		</ol>
 	</nav>
-	<p>DIANAVI DT-M707</p>
-	
+	<p class="">DIANAVI DT-RC318</p>
 	<div class="justify-content-center">
-		<img class="w-75 d-block mx-auto" src="../../../img/carnavi/DT-M707_front.jpg" alt="正面">
+		<img class="w-75 d-block mx-auto" src="../../../img/carnavi/DT-RC318_front.jpg" alt="正面">
 	</div>
 	
 	<div class="row justify-content-center">
 		<a href="options.php"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">オプション</button></a>
-		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DT-M707_manual_web_v2.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
-		<a href="http://support.nplace.jp/download/firmware/dt-m707/"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">ファームウェア</button></a>
+		<a href="http://nplace.jp//wp-content/uploads/downloads/manuals/navigation/DT-RC318_manual_web_v2.pdf" target="_blank"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">取扱説明書</button></a>
+		<a href="http://support.nplace.jp/download/firmware/dt-rc318/"><button type="button" class="btn btn-info m-1 mb-2 btn-lg">ファームウェア</button></a>
 	</div>
 
 	<div class="row justify-content-center">
-		<a href="#map-2017aut"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2017年度版マップ秋</button></a>
+		<a href="#map-2018sp"><button type="button" class="btn btn-outline-dark m-1 btn-sm">2018年度版マップ春</button></a>
+		<a href="#rear-camera"><button type="button" class="btn btn-outline-dark m-1 btn-sm">専用リアカメラ搭載</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">エンジンキー電源連動</button></a>
 		<a href="#others"><button type="button" class="btn btn-outline-dark m-1 btn-sm">マルチメディア機能</button></a>
 	</div>
 
 	<?php
-		require_once '../details/map-2017aut.html';
-		require_once '../details/detail-2017aut.html';
+		require_once '../details/map-2018sp.html';
+		require_once '../details/detail-2018sp.html';
 	?>
+	
+	<h3 class="mb-4 pb-2 border-bottom" id="rear-camera"><strong>専用リアカメラ搭載</strong></h3>
+	<div class="row mb-5">
+		<div class="col-md-6">
+			<p>カーナビに専用リアカメラが付属されています。カーナビに専用リアカメラを取り付け、シガー電源アダプターの切替スイッチをオンにすることでリアカメラの映像をカーナビのモニターに表示することができます。</p>
+			<p class="small">※画像はイメージです。<br>※専用リアカメラをカーナビに接続するには、スイッチ付シガー電源アダプターに接続する必要があります。<br>※別売品のAC電源アダプターを使用すると、専用リアカメラが接続できません。この場合、市販のAC/DC変換（シガー電源変換）アダプターを使用すれば、屋内でもリアカメラを使用できます。</p>
+		</div>
+		<div class="col-md-6">
+			<img src="../../../img/carnavi/DT-RC317_rearcamera_01.jpg" alt="詳細地図" class="img-fluid">
+			<img src="../../../img/carnavi/DT-RC317_rearcamera_02.jpg" alt="詳細地図" class="img-fluid">
+		</div>
+	</div>
 
 	<h3 class="mb-4 pb-2 border-bottom" id="others"><strong>その他の機能</strong></h3>
 	<div>
@@ -65,6 +77,10 @@
 				<td>φ2.5mm ステレオミニジャック</td>
 			</tr>
 			<tr>
+				<th scope="row">AV-IN</th>
+				<td>φ2.5mm ミニジャック</td>
+			</tr>
+			<tr>
 				<th scope="row">シガー電源</th>
 				<td>DC 12/24V 車対応</td>
 			</tr>
@@ -87,8 +103,8 @@
 		</tbody>
 	</table>
 	<?php
-		require_once '../details/map-2017aut-db.html';
+		require_once '../details/map-2018sp-db.html';
 		require_once '../details/media7inch_c.html';
-	?>    
+	?>  
 </div>
-<?php require_once '../../../footer.php'; ?>
+<?php require_once '../../../footer.php'; ?> 
