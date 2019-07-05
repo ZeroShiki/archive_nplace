@@ -24,7 +24,7 @@
 						<li><a class="text-muted" href="http://support.nplace.jp/inquiry/">お問い合わせ</a></li>
 						<li><a class="text-muted" href="http://support.nplace.jp/download/">ダウンロード</a></li>
 						<li><a class="text-muted" href="http://support.nplace.jp/repair/">修理のご依頼</a></li>
-						<li><a class="text-muted" href="http://support.nplace.jp/update/">地図データ更新</a></li>
+						<li><a class="text-muted" href="http://support.nplace.jp/maps/">地図データ更新</a></li>
 						<li><a class="text-muted" href="http://support.nplace.jp/faq/">FAQ</a></li>
 					</ul>
 				</div>
