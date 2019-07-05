@@ -58,7 +58,7 @@
 								</div>
 							</li>
 							<li class="navbar-nav">
-								<a class="nav-link" href="http://nplace.jp/support/">サポート</a>	
+								<a class="nav-link" href="http://support.nplace.jp/">サポート</a>	
 							</li>
 						</ul>
 					</div>
