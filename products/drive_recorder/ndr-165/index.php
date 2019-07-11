@@ -29,7 +29,7 @@
 		<a href="#gps"><button type="button" class="btn btn-outline-dark m-1 btn-sm">GPS内蔵</button></a>
 	</div>
 	
-	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
+	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
 	<div class="row">
 		<div class="col-md-6 mb-4">
 			<p>200万画素の高画質で精細な映像を記録し、昼間や夜間でも鮮明な映像を残すことができます。</p>

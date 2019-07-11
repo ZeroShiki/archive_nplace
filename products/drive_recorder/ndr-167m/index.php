@@ -22,12 +22,24 @@
 	</div>
 
 	<div class="row justify-content-center">
+		<a href="#mirror"><button type="button" class="btn btn-outline-dark m-1 btn-sm">ルームミラーで録画可能
+			</button></a>
 		<a href="#recording"><button type="button" class="btn btn-outline-dark m-1 btn-sm">３つの録画モード</button></a>
 		<a href="#quality"><button type="button" class="btn btn-outline-dark m-1 btn-sm">自動LCDオフ</button></a>
 		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
 	</div>
 	
-	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="recording"><strong>３つの録画モード</strong></h3>
+		<h3 class="mb-4 mt-5 pb-2 border-bottom" id="mirror"><strong>ルームミラー型で録画可能</strong></h3>
+	<div class="row">
+		<div class="col-md-6 mb-4">
+			<p>130万画素の画質で映像を記録します。ルームミラーに取り付けることでフロントガラスの視界を確保することができます。</p>
+		</div>
+		<div class="col-md-6 mb-4">
+			<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-IpuvBAclH0" allowfullscreen></iframe></div>
+		</div>	
+	</div>
+
+	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="recording"><strong>３つの録画モード</strong></h3>
 	<div class="row">
 		<div class="col-md-6 mb-4">
 			<h4>常時録画モード</h4>

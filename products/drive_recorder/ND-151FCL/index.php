@@ -29,7 +29,7 @@
 		<a href="#playback"><button type="button" class="btn btn-outline-dark m-1 btn-sm">録画した映像を確認</button></a>
 	</div>
 	
-	<h3 class="mb-4 mt-3 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
+	<h3 class="mb-4 mt-5 pb-2 border-bottom" id="quality"><strong>高画質録画</strong></h3>
 	<div class="row">
 		<div class="col-md-6 mb-4">
 			<h4>200万画素 CMOSセンサーを搭載</h4>
