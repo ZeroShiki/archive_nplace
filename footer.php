@@ -16,6 +16,7 @@
 					<ul class="list-unstyled text-small mt-2">
 						<li><a class="text-muted" href="http://nplace.jp/product/carnavi/">カーナビゲーション</a></li>
 						<li><a class="text-muted" href="http://nplace.jp/product/drive_recorder/">ドライブレコーダー</a></li>
+						<li><a class="text-muted" href="http://nplace.jp/product/tool/">工具</a></li>
 					</ul>
 				</div>
 				<div class="col-3 d-none d-sm-block d-md-block">
