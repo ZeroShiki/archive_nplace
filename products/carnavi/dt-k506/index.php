@@ -88,7 +88,7 @@
 	</table>
 	<?php
 		require_once '../details/map-2016aut-db.html';
-		require_once '../details/media5inch_c.html';
+		require_once '../details/media7inch_c.html';
 	?>  
 </div>
 <?php require_once '../../../footer.php'; ?> 

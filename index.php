@@ -48,6 +48,10 @@
 		<table class="table spec">
 			<tbody>
 				<tr>
+					<th scope="row" class="text-nowrap">2020.01.27</th>
+					<td><a href="products/carnavi/dt-k506/">【カーナビ】2016年度秋版 ポータブルカーナビゲーション「DT-K506」を追加しました。</a></td>
+				</tr>
+				<tr>
 					<th scope="row" class="text-nowrap">2019.07.05</th>
 					<td><a href="products/carnavi/dnk-7758/">【カーナビ】2018年度春版 ポータブルカーナビゲーション「DNK-7758」を追加しました。</a></td>
 				</tr>
